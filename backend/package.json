@@ -1,0 +1,22 @@
+{
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "express-validator": "^7.0.1",
+        "mongodb": "^6.2.0",
+        "mongoose": "^7.6.3",
+        "mongose": "^0.0.2-security",
+        "nodemon": "^3.0.1"
+    },
+    "scripts": {
+        "server": "nodemon server.js"
+    },
+    "name": "contact",
+    "version": "1.0.0",
+    "main": "server.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "type": "module"
+}
